@@ -8,3 +8,7 @@
 * Unsure about comment about nested order? Appears in written order to me
 * Updating implicit subject is slightly confusing
 * Less is more - slightly too many ideas
+
+# 3
+
+* Is the compound example recommended or not? Unclear from previous line about not combining tests
