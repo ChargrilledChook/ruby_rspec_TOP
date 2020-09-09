@@ -12,3 +12,7 @@
 # 3
 
 * Is the compound example recommended or not? Unclear from previous line about not combining tests
+
+# 4
+
+* Predicate method style names (with ?) for hash keys? Haven't seen before. Not necessarily wrong
