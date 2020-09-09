@@ -30,3 +30,11 @@
 # 7
 
 # 8
+
+# 9
+
+* 9 mentions matcher scope but not what that actually is. Within a describe block? just within a block
+
+# 10
+
+* Structure of various components? context, describe, let, subject, custom matcher etc
