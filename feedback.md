@@ -38,3 +38,13 @@
 # 10
 
 * Structure of various components? context, describe, let, subject, custom matcher etc
+
+# 11
+
+* Good conceptually but could be simplified
+
+# 12
+
+* I think this should come much earlier than 12 as a concept. Pretty useful concept that's reaonsably easier to absorb and a good rule of thumb to have in your pocket while testing
+
+* How does using subject work with the AAA pattern? Where should subjects go in their respective blocks?
