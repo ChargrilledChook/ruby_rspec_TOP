@@ -1,3 +1,7 @@
+# General
+
+* Name files by concept / learning outcome rather than details of example
+
 # 1
 
 * Advantage to passing String.new as opposed to a string literal?
@@ -48,3 +52,11 @@
 * I think this should come much earlier than 12 as a concept. Pretty useful concept that's reaonsably easier to absorb and a good rule of thumb to have in your pocket while testing
 
 * How does using subject work with the AAA pattern? Where should subjects go in their respective blocks?
+
+# 13
+
+* Need a reminder or reference for custom matchers
+* If the main goal of this is to show how small methods are easier to test the custom matchers req confuses and obscures this somewhat
+* 'In addition, it is unnecessary to test methods that only  contain puts and/or gets.'
+=> again really great info that is more relevant to beginners that should probably be highlighted earlier, again like more general conceptual stuff ie private vs public
+* Impossible to test is a good idea but i think it's too abstract
