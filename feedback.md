@@ -66,3 +66,14 @@
 * This info, or  something similar to it should probably be an actual lesson in the testing section
 * 'it is possible to add method names to subject...' figured it out but wasn't immediately obivious. Is this conflicting with AAA / story telling of tests?
 * Lots of good content but hard to follow at times. Large blocks of comments can be distracting and hide the way tests are supposed to look / be structured
+
+# 15
+
+* Again, some of this kind of info belongs in a lesson rather than a side exercise
+* Source? Curious to read more particularly the script / looping script concepts
+* Very dense
+* .exactly(5).times is new syntax
+* Too many concepts, too much new syntax at once, slightly unclear on what the current focus is in the current exercise
+* Instance variable get - smelly?
+* the part of about method expectations feels important but is confusing.
+Trying to explain the difference between stubs and mocks?
