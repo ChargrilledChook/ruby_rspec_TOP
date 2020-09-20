@@ -183,7 +183,7 @@ describe FindNumber do
         expect(minimum).to eq(5)
       end
 
-      it 'does not update max' do
+      xit 'does not update max' do
         maximum = low_guess_game.max
         expect(maximum).to eq(9)
       end
@@ -196,12 +196,12 @@ describe FindNumber do
         high_guess_game.update_range
       end
 
-      it 'does not update min' do
+      xit 'does not update min' do
         minimum = high_guess_game.min
         expect(minimum).to eq(0)
       end
 
-      it 'updates max to 8' do
+      xit 'updates max to 8' do
         maximum = high_guess_game.max
         expect(maximum).to eq(8)
       end

@@ -60,3 +60,9 @@
 * 'In addition, it is unnecessary to test methods that only  contain puts and/or gets.'
 => again really great info that is more relevant to beginners that should probably be highlighted earlier, again like more general conceptual stuff ie private vs public
 * Impossible to test is a good idea but i think it's too abstract
+
+# 14
+
+* This info, or  something similar to it should probably be an actual lesson in the testing section
+* 'it is possible to add method names to subject...' figured it out but wasn't immediately obivious. Is this conflicting with AAA / story telling of tests?
+* Lots of good content but hard to follow at times. Large blocks of comments can be distracting and hide the way tests are supposed to look / be structured
