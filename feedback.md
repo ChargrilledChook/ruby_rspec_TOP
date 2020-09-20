@@ -77,3 +77,8 @@
 * Instance variable get - smelly?
 * the part of about method expectations feels important but is confusing.
 Trying to explain the difference between stubs and mocks?
+
+# 16
+* Lacked the context to solve the file i/o on my own
+* too many concepts getting mashed together here. stubbing, mocking, file io, testing modules, etc
+* needs a bit more explanation about stubbing from doubles vs stubbing from actual classes and objects
